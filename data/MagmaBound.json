@@ -2,7 +2,7 @@
     "id": 56568010,
     "name": "Magma Bound",
     "author": "ScorchVX",
-    "creators": "ScorchVX",
+    "creators": ["ScorchVX"],
     "verifier": "Leo",
     "Showcase": "https://youtube.com/watch?v=B3C6XVjpSJ4",
     "percentToQualify": "100",
