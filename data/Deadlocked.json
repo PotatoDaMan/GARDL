@@ -1,0 +1,18 @@
+{
+    "id": "N/A",
+    "name": "Deadlocked",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/I3LFTGTIWoI?si=l5CRv_b5f5pTPB9o",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "link",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
