@@ -1,5 +1,5 @@
 {
-    "id": 0000000000,
+    "id": 987654321,
     "name": "placeholder",
     "author": "placeholder",
     "creators": ["placerholder", "placeholder"],
@@ -11,7 +11,7 @@
         {
             "user": "placeholder",
             "link": "linkplaceholder",
-            "percent": 0000000000,
+            "percent": 100,
             "hz": 360
         }
     ]
