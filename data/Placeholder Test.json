@@ -1,1 +1,18 @@
-
+{
+    "id": placeholder,
+    "name": "placeholder",
+    "author": "placeholder",
+    "creators": ["placerholder", "placeholder"],
+    "verifier": "placeholder",
+    "verification": "linkplaceholder",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "placeholder",
+            "link": "linkplaceholder",
+            "percent": placeholder,
+            "hz": 360
+        }
+    ]
+}
