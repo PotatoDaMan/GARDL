@@ -5,7 +5,7 @@
     "creators": ["Motleyorc", "ScorchVX"],
     "verifier": "Leo",
     "verification": "https://youtu.be/ohKPqGxotao?si=CaeBsPL8Tz_BQ_VB",
-    "percentToQualify": "60",
+    "percentToQualify": "55",
     "password": "Free To Copy",
     "records": [
         {
@@ -24,6 +24,12 @@
             "user": "Memphis",
             "link": "https://youtu.be/i3saotIqXLg",
             "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Aidan",
+            "link": "link",
+            "percent": 55,
             "hz": 60
         }
     ]
