@@ -1,0 +1,18 @@
+{
+    "id": 987654321,
+    "name": "Theory of Everything",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/FIE4To5pWfM",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
