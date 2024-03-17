@@ -1,0 +1,24 @@
+{
+    "id": "N/A",
+    "name": "Clubstep",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/gok5ShDXxg4?si=Q8Xc3HnoV2dwauI8",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nathan",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
