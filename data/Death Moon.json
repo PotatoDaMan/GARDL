@@ -5,7 +5,14 @@
     "creators": ["Caustic"],
     "verifier": "Nathaniel",
     "verification": "https://youtu.be/rpmMdlDDda0?si=X5wGs0KjZ8SGTtjd",
-    "percentToQualify": 60,
+    "percentToQualify": 40,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 70,
+            "hz": 360
+        }
+    ]
 }
