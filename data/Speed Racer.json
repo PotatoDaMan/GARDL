@@ -1,0 +1,18 @@
+{
+    "id": 3543219,
+    "name": "Speed Racer",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/R8RsJVKKd8w?si=Wa2Xu6Ibjd7y5Zz7",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Aidan",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
