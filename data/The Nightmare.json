@@ -1,0 +1,36 @@
+{
+    "id": 13519,
+    "name": "The Nightmare",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/i0dlZgqA8ds?si=tjvxiBRnjSgCLGTq",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Memphis",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Romeo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+    ]
+}
