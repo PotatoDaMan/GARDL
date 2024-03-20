@@ -1,0 +1,18 @@
+{
+    "id": 86880648,
+    "name": "Common S3nse",
+    "author": "LEALHALZITX",
+    "creators": ["LEALHALZITX"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/Xa0hMTf-3oQ?si=FL8qZibFTqOFdUHW",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
