@@ -1,0 +1,18 @@
+{
+    "id": 393159,
+    "name": "Impulse",
+    "author": "MrCheeseTigrr",
+    "creators": ["MrCheeseTigrr"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/hMzQIllaUjI?si=XT7CuTOHgrOnqzMB",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Memphis",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
