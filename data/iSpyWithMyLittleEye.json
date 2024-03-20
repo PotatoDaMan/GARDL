@@ -1,0 +1,30 @@
+{
+    "id": 89886591,
+    "name": "iSpyWithMyLittleEye",
+    "author": "Voxicat",
+    "creators": ["Voxicat"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/rQQfZ4EaSp4?si=vtMuaHt_0BU__tCB",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Aidan",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
