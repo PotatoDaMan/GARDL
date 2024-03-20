@@ -1,0 +1,18 @@
+{
+    "id": 61348317,
+    "name": "What Is It",
+    "author": "Booglee",
+    "creators": ["Booglee"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/QxV_PvhXvec?si=4LDC8BReT1v4theR",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Aidan",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
