@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/tVSUkXNBECw?si=rw7NDRIOWUp_dryk",
     "percentToQualify": 60,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Romeo",
+            "link": "linkplaceholder",
+            "percent": 80,
+            "hz": 60
+        }
+    ]
 }
