@@ -3,9 +3,22 @@
     "name": "Acu",
     "author": "Neigefeu",
     "creators": ["Neigefeu"],
-    "verifier": "Preston",
+    "verifier": "",
     "verification": "https://youtu.be/qTE6hE1a_vU?si=eSyuRYwtcaPD-KZU",
     "percentToQualify": 60,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Preston",
+            "link": "link",
+            "percent": 72,
+            "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "link",
+            "percent": 55,
+            "hz": 60
+        }
+    ]
 }
