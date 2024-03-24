@@ -1,4 +1,15 @@
-<!DOCTYPE html>
+export default {
+    components: {
+        Spinner,
+    },
+    data: () => ({
+        leaderboard: [],
+        loading: true,
+        selected: 0,
+        err: [],
+    }),
+    template: `
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
