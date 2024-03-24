@@ -77,7 +77,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>Ummm there was an error lol, probably a bug in the code or something. I want to extend this paragraph very long or something; so here's the Preamble to the Declaration of Independence: We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.</p>
                 </div>
             </div>
             <div class="meta-container">
