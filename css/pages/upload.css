@@ -1,0 +1,44 @@
+/*This makes the buttons look pretty */
+#myForm input[type="text"], #myForm button 
+{
+   /* Styles for the form */
+   width: 300px; /* Set a specific width for the form */
+   display: flex; /* Activate flexbox layout */
+   flex-direction: column; /* Display form elements in a column */
+   align-items: center; /* Center form elements vertically */
+   color: black;
+}
+
+body 
+{
+    background-color: #646464; /* Replace #f0f0f0 with the desired color */
+    margin: 0; /* Optional: Remove default margin */
+    padding: 0; /* Optional: Remove default padding */
+}
+
+.container 
+{
+      /* Container for centering the form */
+  display: flex; /* Activate flexbox layout */
+  justify-content: center; /* Center the form horizontally */
+}
+
+#centeredHeader 
+{
+    /* Center the header horizontally */
+    text-align: center;
+}
+
+.centered-image 
+{
+    display: block;
+    margin: 0 auto;
+}
+
+.centered-link 
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
