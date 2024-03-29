@@ -31,6 +31,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Tigran",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
