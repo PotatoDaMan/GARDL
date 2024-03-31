@@ -5,13 +5,19 @@
     "creators": ["Zobros"],
     "verifier": "Preston",
     "verification": "https://youtu.be/GAy5UNGxGX0",
-    "percentToQualify": "51",
+    "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
         {
             "user": "Memphis",
             "link": "link",
             "percent": 60,
+            "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "link",
+            "percent": 51,
             "hz": 60
         }
     ]
