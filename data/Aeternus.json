@@ -1,0 +1,24 @@
+{
+    "id": 102646926,
+    "name": "Aeternus",
+    "author": "ryamu",
+    "creators": ["Riot", "ryamu"],
+    "verifier": "Preston",
+    "verification": "https://youtu.be/p4QgFtKL5kE?si=3JVsM7iii1ZtjVr4",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 9823498723984
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 99,
+            "hz": 285983459832458972349758
+        },
+    ]
+}
