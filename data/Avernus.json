@@ -1,0 +1,52 @@
+
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [
+		"PockeWindfish",
+		"Zoink"
+],
+    "verifier": "Romeo",
+    "verification": "https://youtu.be/twTw4fjT0ik?si=cySicI60b4G63B5p",
+    "percentToQualify": "1",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 1.2,
+            "hz": 360
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 1.2,
+            "hz": 360
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 1.1,
+            "hz": 360
+        },
+        {
+            "user": "Memphis",
+            "link": "linkplaceholder",
+            "percent": 1.1,
+            "hz": 360
+        },
+        {
+            "user": "Tigran",
+            "link": "linkplaceholder",
+            "percent": 1,
+            "hz": 360
+        },
+        {
+            "user": "Aidan",
+            "link": "linkplaceholder",
+            "percent": 1,
+            "hz": 360
+        }
+    ]
+}
