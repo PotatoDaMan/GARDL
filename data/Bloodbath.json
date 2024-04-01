@@ -16,20 +16,20 @@
 		"Giron"
 ],
     "verifier": "Romeo",
-    "verification": "https://youtu.be/TBocac5yrv8?si=kuXSmFH5uixhiXIm",
-    "percentToQualify": "-60",
+    "verification": "https://youtu.be/twTw4fjT0ik?si=cySicI60b4G63B5p",
+    "percentToQualify": "0",
     "password": "Free To Copy",
     "records": [
         {
             "user": "Leo",
             "link": "linkplaceholder",
-            "percent": 3,
+            "percent": 100,
             "hz": 360
         },
         {
             "user": "Nathaniel",
             "link": "linkplaceholder",
-            "percent": 3,
+            "percent": 100,
             "hz": 360
         },
         {
@@ -41,19 +41,19 @@
         {
             "user": "Memphis",
             "link": "linkplaceholder",
-            "percent": 2,
+            "percent": 100,
             "hz": 360
         },
         {
             "user": "Tigran",
             "link": "linkplaceholder",
-            "percent": 2,
+            "percent": 100,
             "hz": 360
         },
         {
             "user": "Aidan",
             "link": "linkplaceholder",
-            "percent": 2,
+            "percent": 100,
             "hz": 360
         }
     ]
