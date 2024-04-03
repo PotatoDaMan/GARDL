@@ -13,6 +13,12 @@
             "link": "link",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Connor",
+            "link": "link",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
