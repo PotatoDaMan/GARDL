@@ -31,6 +31,12 @@
             "link": "linkplaceholder",
             "percent": 76,
             "hz": 360
+        },
+        {
+            "user": "Connor",
+            "link": "linkplaceholder",
+            "percent": 72,
+            "hz": 360
         }
     ]
 }
