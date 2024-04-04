@@ -13,6 +13,12 @@
             "link": "link",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
