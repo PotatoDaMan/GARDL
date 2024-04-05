@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Nathaniel",
             "link": "link",
             "percent": 100,
