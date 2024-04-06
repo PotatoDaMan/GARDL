@@ -5,13 +5,13 @@
     "creators": ["Blogde"],
     "verifier": "Leo",
     "verification": "https://youtu.be/u-KBY6cT4M4?si=sHmN0iptI08lCgx4",
-    "percentToQualify": "40",
+    "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
         {
             "user": "Leo",
             "link": "linkplaceholder",
-            "percent": 47,
+            "percent": 67,
             "hz": 60
         }
     ]
