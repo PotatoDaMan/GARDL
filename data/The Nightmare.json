@@ -35,6 +35,7 @@
         {
             "user": "Narek",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
             "hz": 60
         },
