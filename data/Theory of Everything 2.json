@@ -11,6 +11,7 @@
         {
             "user": "Narek",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
             "hz": 60
         },
@@ -23,6 +24,7 @@
         {
             "user": "Connor",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
             "hz": 60
         }
