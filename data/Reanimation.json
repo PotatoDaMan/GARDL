@@ -4,8 +4,15 @@
     "author": "Terron",
     "creators": ["Terron"],
     "verifier": "Nathaniel",
-    "verification": "https://youtu.be/RB8g4CZLik4?si=iRRN5kVQradT9YHj",
+    "verification": "https://youtu.be/f4isWS0lCNU",
     "percentToQualify": 60,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/f4isWS0lCNU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
