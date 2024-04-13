@@ -12,13 +12,13 @@
             "user": "Memphis",
             "link": "link",
             "percent": 60,
-            "hz": 60
+            "hz": 360
         },
         {
             "user": "Leo",
             "link": "link",
             "percent": 51,
-            "hz": 60
+            "hz": 360
         }
     ]
 }
