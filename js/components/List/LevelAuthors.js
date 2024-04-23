@@ -9,9 +9,12 @@ export default {
             required: false,
         },
         verifier: {
-            type: Array,
-            required: false,
+            type: String,
+            required: true,
         },
+        testvariable: {
+            type: String,
+            required: false,
     },
     template: `
         <div class="level-authors">
@@ -42,6 +45,11 @@ export default {
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
+                </p>
+                </p>
+                <div class="type-title-sm">Test Variable</div>
+                <p class="type-body">
+                    <span>{{ testvariable }}</span>
                 </p>
             </template>
             <div class="type-title-sm">Publisher</div>
