@@ -48,11 +48,11 @@ export default {
                 <p class="type-body">
                     <span>{{ verifier }}</span>
                 </p>
-                <div class="type-title-sm">Test Thing</div>
-                <p class="type-body">
-                    <span>{{ placeholderthing }}</span>
-                </p>
             </template>
+            <div class="type-title-sm">Test Thing</div>
+            <p class="type-body">
+                    <span>{{ placeholderthing }}</span>
+            </p>
             <div class="type-title-sm">Publisher</div>
             <p class="type-body">
                 <span>{{ author }}</span>
