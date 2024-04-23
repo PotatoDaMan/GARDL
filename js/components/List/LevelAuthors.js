@@ -9,8 +9,8 @@ export default {
             required: false,
         },
         verifier: {
-            type: String,
-            required: true,
+            type: Array,
+            required: false,
         },
     },
     template: `
