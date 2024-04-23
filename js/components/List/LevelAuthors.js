@@ -1,4 +1,3 @@
-
 export default {
     props: {
         author: {
@@ -12,10 +11,6 @@ export default {
         verifier: {
             type: String,
             required: true,
-        },
-        placeholderthing: {
-            type: String,
-            required: false,
         },
     },
     template: `
@@ -49,10 +44,6 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Test Thing</div>
-            <p class="type-body">
-                    <span>{{ placeholderthing }}</span>
-            </p>
             <div class="type-title-sm">Publisher</div>
             <p class="type-body">
                 <span>{{ author }}</span>
