@@ -1,3 +1,4 @@
+
 export default {
     props: {
         author: {
@@ -6,12 +7,17 @@ export default {
         },
         creators: {
             type: Array,
-            required: false,
+            required: true,
         },
         verifier: {
             type: String,
             required: true,
         },
+        placeholderthing: {
+            type: String,
+            required: false,
+        },
+    },
     template: `
         <div class="level-authors">
             <template v-if="selfVerified">
@@ -41,6 +47,10 @@ export default {
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
+                </p>
+                <div class="type-title-sm">Test Thing</div>
+                <p class="type-body">
+                    <span>{{ placeholderthing }}</span>
                 </p>
             </template>
             <div class="type-title-sm">Publisher</div>
