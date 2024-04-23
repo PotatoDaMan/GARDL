@@ -1,11 +1,20 @@
+
 {
-    "id": "2997354",
+    "id": 2997354,
     "name": "DeCode",
     "author": "Rek3dge",
     "creators": ["Rek3dge"],
-    "verifier": "Romeo",
-    "verification": "https://youtu.be/IRTQZZ502J0?si=VxMGsiDZPtX1VfFu",
-    "percentToQualify": 60,
+    "verifier": "Leo",
+    "verification": "https://youtu.be/8NSOb9_i42Q",
+    "percentToQualify": "48",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Romeo",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 51,
+            "hz": 60
+        }
+    ]
 }
