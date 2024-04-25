@@ -50,8 +50,8 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: #de0000;
-    color: #de0000;
+    background-color: #76C5FF;
+    color: white;
 }
 @media screen and (min-width: 1366px) {
     header {
