@@ -56,7 +56,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">GDDL Tier</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ gddl.tier }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
