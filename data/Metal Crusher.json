@@ -9,5 +9,12 @@
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 78,
+            "hz": 60
+        }
     ]
 }
