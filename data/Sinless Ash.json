@@ -1,0 +1,19 @@
+
+{
+    "id": 90251922,
+    "name": "Sinless Ash",
+    "author": "Whirl",
+    "creators": ["Whirl"],
+    "verifier": "Tigran",
+    "verification": "https://youtu.be/yH3H2kgNZaI?si=CwrYQqyWHqiL6BGq",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 64,
+            "hz": 360
+        }
+    ]
+}
