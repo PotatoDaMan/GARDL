@@ -33,6 +33,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
