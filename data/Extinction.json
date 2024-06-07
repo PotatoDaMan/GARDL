@@ -1,0 +1,18 @@
+{
+    "id": 38427291,
+    "name": "Extinction",
+    "author": "HaoN",
+    "creators": ["HaoN"],
+    "verifier": "Narek",
+    "verification": "https://youtu.be/BEYQZ17POu8",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+
+{
+    "id": 5098465,
+    "name": "Speed of Light",
+    "author": "TheRealSalad",
+    "creators": ["TheRealSalad"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/QvNXejvn6ys",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

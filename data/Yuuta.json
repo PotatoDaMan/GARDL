@@ -1,0 +1,18 @@
+{
+    "id": "88608681",
+    "name": "Yuuta",
+    "author": "Sylv",
+    "creators": ["Sylv"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/BwQeuSeu_VE?si=8noamrvBywWRtxGj",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 79,
+            "hz": 360
+        }
+    ]
+}

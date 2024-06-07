@@ -1,0 +1,18 @@
+{
+    "id": 81863904,
+    "name": "Luminescent",
+    "author": "Nova4664",
+    "creators": ["Nova4664"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/3Z3YCEApibY?si=NTXEuG4-XWqgUStN",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

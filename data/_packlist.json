@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Top 1 Pack",
+        "levels": [
+            "Leyak",
+            "Magma Bound",
+            "Absolute Zero",
+            "Nine Circles",
+        ],
+        "colour": "linear-gradient(45deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%)"
+    }
+]

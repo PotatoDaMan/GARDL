@@ -1,0 +1,18 @@
+{
+    "id": "87257787",
+    "name": "V01D",
+    "author": "iMinAY",
+    "creators": ["iMinAY"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/hhPJ1MDhR0A?si=Il_uvH2WAXXIMM4M",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

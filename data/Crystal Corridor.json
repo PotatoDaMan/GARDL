@@ -1,0 +1,18 @@
+{
+    "id": 69954089,
+    "name": "Crystal Corridor",
+    "author": "Knots",
+    "creators": ["Knots"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/hcxVUO0_uB8?si=IstdCSXOneehOWRn",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 69,
+            "hz": 360
+        }
+    ]
+}

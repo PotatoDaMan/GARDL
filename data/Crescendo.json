@@ -1,0 +1,19 @@
+{
+    "id": 186646,
+    "name": "Crescendo",
+    "author": "MasK463",
+    "creators": ["MasK463"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/ndx5WJv-P3E?si=VmrL_pf5gPv-YqjX",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

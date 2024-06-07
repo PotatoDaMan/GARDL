@@ -1,0 +1,32 @@
+{
+    "id": "N/A",
+    "name": "Deadlocked",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/kw6vaF6yqDY",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nathaniel",
+            "link": "link",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Connor",
+            "link": "link",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

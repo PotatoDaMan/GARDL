@@ -1,0 +1,57 @@
+{
+    "id": "N/A",
+    "name": "Clubstep",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/gok5ShDXxg4?si=Q8Xc3HnoV2dwauI8",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Memphis",
+            "link": "linkplaceholder",
+            "percent": 80,
+            "hz": 360
+        },
+        {
+            "user": "Tigran",
+            "link": "linkplaceholder",
+            "percent": 76,
+            "hz": 360
+        },
+        {
+            "user": "Connor",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 72,
+            "hz": 60
+        },
+        {
+            "user": "Aidan",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 62,
+            "hz": 60
+        }
+    ]
+}

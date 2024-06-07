@@ -1,0 +1,18 @@
+{
+    "id": 28672992,
+    "name": "Fingerdash v2",
+    "author": "BlueLite",
+    "creators": ["BlueLite"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/x8seRhdpQO8?si=OtAULipAmOBfj530",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 66,
+            "hz": 360
+        }
+    ]
+}

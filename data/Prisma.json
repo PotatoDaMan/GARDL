@@ -1,0 +1,25 @@
+{
+    "id": 79770564,
+    "name": "Prisma",
+    "author": "Kaii07",
+    "creators": ["Kaii07", "placeholder"],
+    "verifier": "Narek",
+    "verification": "https://youtu.be/pgXqaFz-nvY?si=Lg4H4oGJ11V8pBJc",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

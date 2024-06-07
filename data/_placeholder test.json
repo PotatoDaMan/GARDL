@@ -1,0 +1,18 @@
+{
+    "id": 987654321,
+    "name": "placeholder",
+    "author": "placeholder",
+    "creators": ["placeholder", "placeholder"],
+    "verifier": "placeholder",
+    "verification": "linkplaceholder",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "placeholder",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

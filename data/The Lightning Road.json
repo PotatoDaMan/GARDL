@@ -1,0 +1,25 @@
+{
+    "id": 55520,
+    "name": "THE LIGHTNING ROAD",
+    "author": "timeless real",
+    "creators": ["timeless real"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/_hoQ06Y_RLQ?si=f1hElJZ8WCoK1cxv",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Memphis",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

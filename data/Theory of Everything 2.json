@@ -1,0 +1,32 @@
+{
+    "id": "N/A",
+    "name": "Theory of Everything 2",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/FIE4To5pWfM",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Connor",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

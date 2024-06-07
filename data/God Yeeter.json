@@ -1,0 +1,18 @@
+{
+    "id": "55644969",
+    "name": "God Yeeter",
+    "author": "DanZmen",
+    "creators": ["DanZmen"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/SAnn4SaziWQ?si=Zn0VXhToLB9P8ic6",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Connor",
+            "link": "link",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

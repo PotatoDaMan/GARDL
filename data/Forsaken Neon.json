@@ -1,0 +1,24 @@
+{
+    "id": 6300721,
+    "name": "Forsaken Neon",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Preston",
+    "verification": "https://youtu.be/ZY61XAfhCQE",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Memphis",
+            "link": "link",
+            "percent": 60,
+            "hz": 360
+        },
+        {
+            "user": "Leo",
+            "link": "link",
+            "percent": 51,
+            "hz": 360
+        }
+    ]
+}

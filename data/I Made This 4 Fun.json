@@ -1,0 +1,18 @@
+{
+    "id": 92716951,
+    "name": "I Made This 4 Fun",
+    "author": "xGWx",
+    "creators": ["xGWx"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/oj_41yug-9I?si=kGxO3FsHki0BkcnW",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "56587109",
+    "name": "Phjork",
+    "author": "cerufiffy",
+    "creators": ["cerufiffy"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/bHqD1kBpnEc?si=ivWGOWMRGezAvKOm",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Connor",
+            "link": "link",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

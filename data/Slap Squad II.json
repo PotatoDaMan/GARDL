@@ -1,0 +1,18 @@
+{
+    "id": "43276194",
+    "name": "Slap Squad II",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/05oncCwnxxk",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

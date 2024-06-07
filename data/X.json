@@ -1,0 +1,18 @@
+{
+    "id": 17235008,
+    "name": "X",
+    "author": "TriaXis",
+    "creators": ["TriaXis"],
+    "verifier": "Narek",
+    "verification": "https://youtu.be/0a7HcKM2nVY",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/0a7HcKM2nVY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

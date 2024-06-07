@@ -1,0 +1,18 @@
+{
+    "id": 29123017,
+    "name": "Shuriken",
+    "author": "Danolex",
+    "creators": ["Danolex"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/ze7IgY7lKW0?si=11uQA1YOlcYKVZ91",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/ifr509qsMwA?si=TddL9s0odrmowliX",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

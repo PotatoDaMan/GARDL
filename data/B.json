@@ -1,0 +1,50 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "Motleyorc",
+    "creators": ["Motleyorc", "ScorchVX"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/ohKPqGxotao?si=CaeBsPL8Tz_BQ_VB",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "link",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Preston",
+            "link": "link",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Narek",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Memphis",
+            "link": "https://youtu.be/i3saotIqXLg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo (School)",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Aidan",
+            "link": "link",
+            "mobile": true,
+            "percent": 57,
+            "hz": 60
+        }
+    ]
+}
